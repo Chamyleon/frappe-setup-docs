@@ -1,6 +1,6 @@
 ## Installation
 
-**Note: Use ubuntu version 20.4**.
+**Note: Use ubuntu version 20.04**.
 
 Install **Docker Container**.
 
