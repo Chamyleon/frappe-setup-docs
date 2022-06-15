@@ -1,5 +1,7 @@
 ## Installation
 
+**Note: Use ubuntu version 20.4**.
+
 Install **Docker Container**.
 
 ```bash
